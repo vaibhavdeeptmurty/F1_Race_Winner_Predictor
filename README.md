@@ -141,9 +141,12 @@ Reasons for choosing XGBoost:
 🏁 Barcelona-Catalunya GP Winner Prediction
 
 P1 | George Russell    | Mercedes        | 41.94%
-P2 | Lewis Hamilton    | Ferrari         | 20.46%
+P2 | Lewis Hamilton    | Ferrari         | 20.46%  <- WIN 
 P3 | Kimi Antonelli    | Mercedes        |  9.71%
 P4 | Max Verstappen    | Red Bull Racing |  1.13%
+
+
+Lewis won despite not being the model's top prediction. A strong strategy call and race execution changed the final outcome, but the model still identified him as a serious contender before lights out.
 ```
 
 The driver with the highest probability is considered the predicted winner.
