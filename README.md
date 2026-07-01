@@ -77,6 +77,14 @@ race_winner
 - Number of wins at the track
 - Number of podiums at the track
 
+### Circuit Characteristics
+
+- Number of straights
+- Number of high-speed corners
+- Number of medium-speed corners
+- Number of low-speed corners
+- Total straight length (m)
+
 ### Reliability
 
 - Driver mechanical DNFs this season
